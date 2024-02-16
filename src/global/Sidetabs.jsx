@@ -42,9 +42,7 @@ function Sidetabs() {
         style={style}
         onClick={(e) => {
           window.location.replace(
-            `http://localhost:3000/${menuName
-              .toLowerCase()
-              .replace(/\s/g, "-")}`
+            `${menuName.toLowerCase().replace(/\s/g, "-")}`
           );
           // pushState(`/${menuName.toLowerCase().replace(/\s/g, "-")}`);
         }}

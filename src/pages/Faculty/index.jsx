@@ -2,13 +2,11 @@ import React, { useEffect, useState } from "react";
 import Sidetabs from "../../global/Sidetabs";
 import styles from "../../global/styles/Faculty.module.css";
 import FacultyCard from "./components/FacultyCard";
+import facultyData from "../../assets/data.json";
 const Faculty = () => {
   const [data, setData] = useState(null);
   const fetchFaculties = async () => {
-    const response = await fetch("http://localhost:5000/api/faculty-data");
-
-    const data = await response.json();
-    setData(data);
+    setData(facultyData);
   };
   useEffect(() => {
     fetchFaculties();
