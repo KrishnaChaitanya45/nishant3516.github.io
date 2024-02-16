@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  gap: 10vw;
+  width: 100%;
+  padding-bottom: 5vh;
+}
+.sideContainer {
+  margin: 10% 0;
+  display: flex;
+  width: 40%;
+  align-items: center;
+  gap: 2.5vh;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.facultyCard {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: start;
+  border-radius: 12px;
+  height: 200px;
+  width: 100%;
+  /* padding: 0px 15px; */
+}
+.image {
+  width: 200px;
+  margin: 0;
+  padding: 0;
+  object-fit: fill;
+  height: 200px;
+  border-radius: 12px;
+}
+.sideContainer {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  justify-content: space-between;
+}
+.sideFacultyContainer h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0;
+  color: #ec691f;
+}
+.sideFacultyContainer p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: black;
+}
+.sideFacultyContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  align-items: flex-start;
+  width: 100%;
+}
+.expQues {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #ec691f;
+}

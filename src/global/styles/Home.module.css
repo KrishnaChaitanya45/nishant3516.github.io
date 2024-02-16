@@ -1,0 +1,31 @@
+.homeMainDiv {
+  width: 100%;
+  padding-top: 10vh;
+}
+
+.indHeading {
+  font-size: 17px !important;
+  color: rgb(4, 81, 132);
+  font-weight: bold;
+}
+
+.imgDiv {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.homeHeading {
+  font-size: 20px;
+  color: rgb(4, 81, 132);
+}
+
+.imgStyle {
+  width: 40%;
+}
+
+p {
+  font-size: 14px;
+}

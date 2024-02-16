@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_2f12278506b84a73abff689c6598852c~mv2.jpg/v1/fill/w_160,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_%20Meeravali%20Shaikh.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr.Arun Singh Chouhan",
+    "degrees": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "Associate Professor",
+    "experience": "15 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_354ee4952531440fb5f2d89dc37f7010~mv2.jpg/v1/fill/w_159,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_Arun%20Singh%20Chouhan.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_efc8ab272bd54140af8232e585fe2ba9~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Narayanan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_125d891d96af4792900745e517286c59~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_%20T_%20Phanindra.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_e2159aa787274cbd9ca0177a0fb7b5fe~mv2.jpg/v1/crop/x_0,y_106,w_1699,h_1794/fill/w_161,h_170,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20P_Shyamala.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_475855434bdd44ebb7886c3d9af137da~mv2.jpg/v1/crop/x_0,y_15,w_1970,h_2091/fill/w_161,h_171,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20M_Gouthamm.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Meeravali Shaikh",
+    "degrees": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+    "position": "HOD",
+    "experience": "13 Years",
+    "image": "https://static.wixstatic.com/media/0c0246_d6b13424cd094bf1813da6765837ae24~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20T_%20Srajan%20Kumar.jpg"
+  }
+]

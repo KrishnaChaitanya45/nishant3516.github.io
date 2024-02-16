@@ -1,0 +1,15 @@
+.heroDiv {
+  /* background-image: url("../../../src/assets/images/hero.webp"); */
+  /* background-color: ; */
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headText {
+  color: rgb(236, 105, 31);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
